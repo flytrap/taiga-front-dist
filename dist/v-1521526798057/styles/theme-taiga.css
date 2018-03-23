@@ -11254,7 +11254,8 @@ tg-wysiwyg {
         cursor: default; }
     tg-wysiwyg .tools a {
       display: block;
-      margin-bottom: .5rem; }
+      margin-bottom: .5rem;
+      padding-bottom: 60px; }
     tg-wysiwyg .tools svg {
       fill: #767676; }
   tg-wysiwyg .editor {
